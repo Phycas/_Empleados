@@ -11,14 +11,29 @@ namespace _Empleados.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
     public partial class empleado
     {
         public int ID { get; set; }
+
+        [Required(ErrorMessage = "Este campo es obligatorio")]
+        [Display(Name = "Nombre")]
         public string nombre { get; set; }
+
+        [Required(ErrorMessage = "Este campo es obligatorio")]
+        [Display(Name = "Apellido")]
         public string apellido { get; set; }
+
+        [Required(ErrorMessage = "Este campo es obligatorio")]
+        [Display(Name = "Fecha de nacimiento")]
+        [DisplayFormat(DataFormatString = "{0:yyyy/MM/dd}", ApplyFormatInEditMode = true)]
         public string fechaNacimiento { get; set; }
+
+        [Required(ErrorMessage = "Este campo es obligatorio")]
+        [Display(Name = "Salario")]
         public string salario { get; set; }
+
+        [Display(Name = "Descripción")]
         public string descripción { get; set; }
     }
 }

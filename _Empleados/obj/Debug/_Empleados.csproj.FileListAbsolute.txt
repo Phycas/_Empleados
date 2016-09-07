@@ -67,3 +67,17 @@ c:\users\hunte\onedrive\documents\visual studio 2015\Projects\_Empleados\_Emplea
 c:\users\hunte\onedrive\documents\visual studio 2015\Projects\_Empleados\_Empleados\obj\Debug\_Empleados.csprojResolveAssemblyReference.cache
 c:\users\hunte\onedrive\documents\visual studio 2015\Projects\_Empleados\_Empleados\obj\Debug\_Empleados.dll
 c:\users\hunte\onedrive\documents\visual studio 2015\Projects\_Empleados\_Empleados\obj\Debug\_Empleados.pdb
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\csc.exe.config
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\csc.rsp
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\csi.exe
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\csi.rsp
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\System.AppContext.dll
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\vbc.exe.config
+C:\Users\Hunte\OneDrive\Documents\Visual Studio 2015\Projects\_Empleados\_Empleados\bin\roslyn\vbc.rsp

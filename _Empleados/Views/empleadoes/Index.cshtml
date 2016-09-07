@@ -34,8 +34,10 @@
         <td>
             @Html.DisplayFor(modelItem => item.fechaNacimiento)
         </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.salario)
+        <td>@{ 
+            string formato = string.Format("${0:C}", item.salario.ToString());
+        }
+        @formato
         </td>
         <td>
             @Html.ActionLink("Editar", "Edit", new { id=item.ID }) |
